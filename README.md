@@ -38,7 +38,7 @@ pip install opencv-python pytesseract pandas matplotlib
 1. **Download the script** from:
 
 ```
-https://github.com/j-unayed/Automatic-Enzyme-Activity-Measurement-Tool/releases/download/enzyme_activity/enzyme_activity.py
+[enzyme_activity.py](https://github.com/j-unayed/Automatic-Enzyme-Activity-Measurement-Tool/releases/download/enzyme_activity/enzyme_activity.py)
 ```
 
 2. **Place your video** (e.g., `spec.mp4`) in the same folder as the script.
